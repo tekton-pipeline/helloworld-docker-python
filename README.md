@@ -1,2 +1,2 @@
 # helloworld-docker-python
-Demo application for tekton pipeline
+Demo application for tekton pipelines
